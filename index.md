@@ -2,6 +2,8 @@
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/1500362884/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/1500362884">N予備校夏期講習2017CM</a></noscript>
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/OkuriSae?ref_src=twsrc%5Etfw">Tweets by OkuriSae</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # About
 
 正体不明のバーチャルプログラミング講師です！  
